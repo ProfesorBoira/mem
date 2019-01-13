@@ -1,0 +1,11 @@
+Para usar una base de datos desde la programación para móvil del appinventor, según el libro comprado,
+he configurado desde el portátil blanco lo siguiente:
+
+ - abierto una cuenta de Gcloud - con 300 dólares gratis para gastar
+ - instalado el sdk
+ - instalado el python 2.7 y 3.6
+ - instalado el gloudapplauncher para apache
+ - Probada la aplicación del inventor para TinyWebDB en el portátil y hecho el "gcloud app deploy" sobre el proyecto bdd01-228509
+ 
+ comprobado y funciona de maravilla
+ se puede utilizar la base de datos desde las aplicaciones para móviles de los alumnos.
