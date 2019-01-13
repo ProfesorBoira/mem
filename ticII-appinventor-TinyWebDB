@@ -9,3 +9,11 @@ he configurado desde el portátil blanco lo siguiente:
  
  comprobado y funciona de maravilla
  se puede utilizar la base de datos desde las aplicaciones para móviles de los alumnos.
+ 
+ Después de hacer el DEPLOY, el programa me dice que desde command line del portátil puedo hacer:
+ 
+ gcloud app logs tail -s default
+ gcloud app browse
+ 
+ y acceder directamente a la app en web en https://bdd01-228509.appspot.com
+ 
